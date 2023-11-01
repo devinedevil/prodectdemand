@@ -1,7 +1,7 @@
 Product Demand Prediction with Machine Learning
 
 Overview 
-        This project depicts the covid-19 analysis
+        This project depicts the Product demand prediction with machine learning 
 
 Dependencies 
 Before you begin,
@@ -20,7 +20,7 @@ ensure you have met the following requirements::
 
 Navigate to Anaconda navigator and Click Launch Jupyternotebook.
 
-On the browser jupyter environment head on to ‘new’ and click ‘ipykernel’ or open the covidanalysis.ipynb file.
+On the browser jupyter environment head on to ‘new’ and click ‘ipykernel’ or open the demandanalysis.ipynb file.
 
 Type the location of the Product_Demand.csv in ‘df’ variable with “ “.
 
