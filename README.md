@@ -1,4 +1,4 @@
-#**Product Demand Prediction with Machine Learning**
+**Product Demand Prediction with Machine Learning**
 
 **Overview** 
         This project depicts the Product demand prediction with machine learning 
@@ -16,6 +16,7 @@ ensure you have met the following requirements::
       
     (for running the Jupyter notebooks)
     The data file should be placed in the data/ directory.
+    
     Installation Clone this repository to your local machine:
     “git clone https://github.com/devinedevil/prodectdemand.git”
 
