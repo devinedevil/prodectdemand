@@ -14,10 +14,10 @@ ensure you have met the following requirements::
       d) matplotlib
       e) seaborn jupyter** 
       
-    (for running the Jupyter notebooks)
-    The data file should be placed in the data/ directory.
+    #(for running the Jupyter notebooks)
+    #The data file should be placed in the data/ directory.
     
-    Installation Clone this repository to your local machine:
+    #Installation Clone this repository to your local machine:
     “git clone https://github.com/devinedevil/prodectdemand.git”
 
 Navigate to Anaconda navigator and Click Launch Jupyternotebook.
