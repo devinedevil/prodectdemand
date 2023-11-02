@@ -17,7 +17,7 @@ ensure you have met the following requirements::
     (for running the Jupyter notebooks)
     The data file should be placed in the data/ directory.
     Installation Clone this repository to your local machine:
-    “git clone [https://github.com/devinedevil/prodectdemand.git](url)”
+    “git clone https://github.com/devinedevil/prodectdemand.git”
 
 Navigate to Anaconda navigator and Click Launch Jupyternotebook.
 
